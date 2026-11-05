@@ -1,0 +1,6 @@
+{
+  "name": "Boi de Fuga — Sobradinho",
+  "description": "Simulador de perseguição e vaquejada no sertão de Sobradinho-BA, com física avançada, áudio dinâmico e narração via Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
